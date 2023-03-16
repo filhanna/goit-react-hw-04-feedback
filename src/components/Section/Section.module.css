@@ -1,0 +1,16 @@
+.section {
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid gray;
+  border-radius: 5px;
+  width: 400px;
+  max-width: 90%;
+}
+
+.title {
+  margin: 0;
+}
+
+.content {
+  margin-top: 10px;
+}
